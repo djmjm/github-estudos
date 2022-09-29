@@ -9,3 +9,10 @@ Explicar **33333**..
 
 ###### Cabeçalho H6 ...
 __Explicar__ _44444!!_
+
+##### Exemplo de lista:
+* Item1
+* Item2
+* Item3
+* Item4
+* Item5
