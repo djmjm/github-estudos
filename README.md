@@ -34,3 +34,14 @@ __Explicar__ _44444!!_
 ## Links interessantes:
 [CPP](https://github.com/djmjm/cpp-exemplos)
 [JAVA](https://github.com/djmjm/java-portfolio)
+
+# Hello!
+```java
+package hello;
+
+public class HelloWorld {
+	public static void main(String []args){
+        System.out.println("Hello World !!!");
+    }
+}
+```
