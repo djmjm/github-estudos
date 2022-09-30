@@ -1,6 +1,9 @@
 #### Imagem Local:
 ![check image](img/check_img.png)
 
+#### Imagem externa:
+![error image](https://cdn.pixabay.com/photo/2017/02/12/21/29/false-2061132__340.png)
+
 # Hello World ....
 Explicar 1111 ...
 
