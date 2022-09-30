@@ -30,3 +30,7 @@ __Explicar__ _44444!!_
     3. three
 2. second
 3. third
+
+## Links interessantes:
+[CPP](https://github.com/djmjm/cpp-exemplos)
+[JAVA](https://github.com/djmjm/java-portfolio)
