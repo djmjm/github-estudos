@@ -1,3 +1,6 @@
+#### Imagem Local:
+![check image](img/check_img.png)
+
 # Hello World ....
 Explicar 1111 ...
 
